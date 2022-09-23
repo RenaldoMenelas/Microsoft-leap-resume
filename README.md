@@ -46,7 +46,7 @@ I am a Frontend developer that enjoys solving problems and learning new technolo
    <p>
   
   ```
-  - Pesonal Project where my intention were to create a peronal countdown for any one who enters there birthdate.
+  - Personal Project where my intention were to create a personal countdown for any one who enters there birthdate.
   
   - App displays a form, once form is filled out and submitted a peronal countdown until your next birthday
     
