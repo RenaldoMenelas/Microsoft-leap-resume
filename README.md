@@ -35,7 +35,7 @@ I am a Frontend developer that enjoys solving problems and learning new technolo
   
   - App displays a specified Statistic on wage ineqaulity between men and women and specfied races.
   
-  - Based on selected group you would get a statitic of how likely on race or gender are likely to get paid than the other
+  - Based on selected group you would get a statistic of how likely on race or gender are likely to get paid than the other
   
   - React js, Axios
   ```
@@ -61,9 +61,9 @@ I am a Frontend developer that enjoys solving problems and learning new technolo
   <p>
   
   ```
-  - Pesonal Project where I was inspired to create a website based one of my favorite spot called Flora in Brooklyn.
+  - Personal Project where I was inspired to create a website based off one of my favorite spot called Flora in Brooklyn.
   
-  -  Designed cover was inspired from a sneaker website that I had viewed few days before starting project
+  - Designed cover was inspired from a sneaker website that I had viewed few days before starting project
     
     which I then implemented that design into this project.
   
@@ -82,10 +82,10 @@ I am a Frontend developer that enjoys solving problems and learning new technolo
  - *Completed coursework towards business (Feb 2020)*
   
   #### KINGS-BOROUGH COMMUNITY COLLEGE
- - *Associate in Arts (A.A.) Liberal Arts (Sept 2017 -Jun 2019)*
+ - *Associate in Arts (A.A.) Liberal Arts (Sept 2017 - Jun 2019)*
 ---
 
-## Experince 
+## Experience 
 
 ## Freelance Developer
 
@@ -102,7 +102,7 @@ I am a Frontend developer that enjoys solving problems and learning new technolo
   *Frontend Developer Intern Brooklyn, NY*
  
  Sept 2021 - Oct 2021
-- 7 month program where we learned HTML, CSS ,JavaScript, and React
+- 7 month program where we learned HTML, CSS, JavaScript, and React
 - implemented multiple designs mockups of profile cards, websites, and menu's.
 - Created responsive Ecommerce application with interactive features using React
 - Collaborated with UX Designers and Backend Developers to update design, rebuild, and test Ecommerce
@@ -112,9 +112,9 @@ Application.
    *Social media Intern Brooklyn, NY*
 
 Sep 2018 - Apr 2019
-- Create compelling and engaging Graphics/content using sketchbook .
+- Create compelling and engaging Graphics/content using sketchbook.
 - Build and develop influencer marketing partnerships by offering free sessions.
--  Help the team stay up to date with social media trends and updates.
+- Help the team stay up to date with social media trends and updates.
 - Researched latest trends and uploading graphics/content based on holidays.
 - Developed martial arts graphic for social media campaigns. and posting reels to Facebook live and Instagram
 stories.
