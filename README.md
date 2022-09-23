@@ -9,7 +9,7 @@ I am a Frontend developer that enjoys solving problems and learning new technolo
 
 ---
 
-## Techinal Skills 
+## Technical Skills 
 
 - Html
 
@@ -89,7 +89,7 @@ I am a Frontend developer that enjoys solving problems and learning new technolo
 
 ## Freelance Developer
 
-*Frontend Developer Intern Brooklyn, NY*
+*Frontend Developer Brooklyn, NY*
 
 - Building landing pages for clients ,as well as creating widgets that displays statistic data. 
 - Calling Api data to be displayed and structured to specific UI designs.
